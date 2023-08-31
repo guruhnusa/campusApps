@@ -5,7 +5,9 @@ Clone Inspace
 ## Getting Started
 
 This is my first project in flutter I worked on this for 2 weeks
-![onboarding](https://github.com/guruhnusa/first_flutter_project/assets/91832107/5d4bdfa6-7d8f-4ac2-b0a2-1dc07956ab8a)
+
+
+  ![onboarding](https://github.com/guruhnusa/first_flutter_project/assets/91832107/5d4bdfa6-7d8f-4ac2-b0a2-1dc07956ab8a)
 
 
 ## For The Video See This
